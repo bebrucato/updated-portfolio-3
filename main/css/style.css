@@ -41,6 +41,67 @@ a {
     height: 100%;
 }
 
+.card {
+    max-height: 500px;
+    max-width: 400px;
+    overflow: none;
+    font-size: 13px;
+    margin: 10px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.card-title {
+    color:rgb(51,51,51);
+    text-shadow: 1px 1px rgb(192,192,192);
+    font-weight: 700;
+    padding: 5px;    
+}
+
+
+.contact-info {
+    margin-left: 24%;
+}
+
+.contact-info h2 {
+    color:rgb(51,51,51);
+    text-shadow: .5px .5px rgb(192,192,192);
+}
+
+.location, .phone, .email, .links {
+    margin: 5%;
+    background-color: rgb(15, 15, 15);
+    padding-bottom: 5%;
+    padding-left: 20px;
+    padding-top: 20px;
+    max-width: 500px;
+}
+
+.burb {
+    max-width: 400px;
+    max-height: 400px;
+    align-items: center;
+    margin-left: 25px;
+}
+
+.link, .git{
+    max-width: 250px;
+    max-height: 250px;
+    align-items: center;
+}
+
+.contact-info a {
+    color:rgb(255,255,255);
+    font-size: 150%;
+    margin-left: 24%;
+    font-family: 'Fjalla One', sans-serif;
+    margin-top: 10%;
+}
+
 .intro {
     background-color: black;
     margin: 10px;
@@ -55,6 +116,14 @@ a {
     align-items: center;
     margin-left: 50px;
     margin-top: 10px;
+}
+
+.project-header {
+    font-size: 250%;
+    color:rgb(51,51,51);
+    text-shadow: 1px 1px rgb(192,192,192);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 .quill, .comp {
