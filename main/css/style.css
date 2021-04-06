@@ -176,3 +176,19 @@ a {
     padding: 25px;
     margin-top: 20px;
     }
+
+    .resume {
+        font-family: 'Fjalla One', sans-serif;
+        font-size: 130%;
+        color:rgb(161, 147, 64);
+        text-align: center;
+        text-shadow: 1px 1px black;
+    }
+    
+    .res-pic {
+        max-height: 400px;
+        max-width: 400px;
+        margin-left: 32%;
+        border-radius: 5%;
+        border-style: groove 5px;
+    }
