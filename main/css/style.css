@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+ }
+
+body {
+    background-image: url("https://cdn-0.idownloadblog.com/wp-content/uploads/2016/03/Black-Home-Screen-By-Jason-Zigrino.png");
+}
+
+.enter {
+    text-align: center;
+    margin-top: 25%;
+    font-family: 'Nosifer', cursive;
+}
+
+a {
+    color:rgb(41, 35, 35);
+}
+
+.about-me {
+    color:rgb(186, 168, 69);
+    text-shadow: 3px 3px rgb(15, 15, 15);
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    font-size: 200%;
+    margin-top: 20px;
+}
+
+.about-text {
+    color:rgb(161, 147, 64);
+    border-radius: 5px;
+    font-family: 'Fjalla One', sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 22px;
+    height: 100%;
+}
+
+.intro {
+    background-color: black;
+    margin: 10px;
+    border-radius: 5%;
+}
+
+.leo {
+    max-height: 350px;
+    max-width: 350px;
+    border-radius: 50%;
+    filter: contrast(120%); 
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.quill, .comp {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 50%; 
+    margin-left: 54px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.nbar {
+    display: flex;
+    justify-content: space-evenly;    
+}
+
+.nav-item {
+    padding-left: 10px;
+    font-family: 'Fjalla One', sans-serif;
+    text-shadow: 1px 1px black;
+    color:rgb(161, 147, 64);
+    margin-top: 10px;
+    letter-spacing: 2px;
+}
+
+.nav-logo {
+    text-align: left;
+    font-size: 240%;
+    margin-right: 15%;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    font-family: 'Nosifer', cursive;
+    text-align: center;
+    color: #fcedd8;
+    font-weight: 700;
+  text-shadow: 5px 5px 0px #eb452b, 
+              10px 10px 0px #efa032, 
+              15px 15px 0px #46b59b, 
+              20px 20px 0px #017e7f, 
+              25px 25px 0px #052939, 
+              30px 30px 0px #c11a2b, 
+              35px 35px 0px #c11a2b, 
+              40px 40px 0px #c11a2b, 
+              45px 45px 0px #c11a2b;
+}
+
+.marble {
+    background-image: url(https://ae01.alicdn.com/kf/HTB1CVo.atzvK1RkSnfoq6zMwVXad/HUAYI-Customized-backdrop-for-photographic-studio-wedding-invitation-marble-professional-background-photobooth-prop-XT-7561.jpg_Q90.jpg_.webp);
+    max-height: 100%;
+    padding: 25px;
+    margin-top: 20px;
+    }
