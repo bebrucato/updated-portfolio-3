@@ -57,6 +57,11 @@ a {
     padding: 5px;    
 }
 
+.writings {
+    max-width: 250px;
+    max-height: 300px;
+}
+
 
 .contact-info {
     margin-left: 24%;
@@ -180,12 +185,26 @@ a {
         text-shadow: 1px 1px black;
 }
     
-    .res-pic {
+.res-pic {
         max-height: 400px;
         max-width: 400px;
         margin-left: 32%;
         border-radius: 5%;
         border-style: groove 5px;
+}
+
+.tdf {
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    max-height: fit-content;
+    background-color: #161616;
+    color: lightgrey;
+    text-shadow: lightslategrey 2px;
+}
+
+.tdf-text {
+    color: lightgrey;
+    text-shadow: lightslategrey 2px;
 }
 
 .resume {
