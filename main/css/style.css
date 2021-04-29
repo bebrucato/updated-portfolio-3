@@ -136,20 +136,20 @@ a {
 }
 
 .nav-item {
-    padding-left: 10px;
+    padding-left: 5px;
     font-family: 'Fjalla One', sans-serif;
     color:rgb(51,51,51);
     text-shadow: 1px 1px rgb(192,192,192);
-    margin-top: 10px;
-    letter-spacing: 2px;
+    margin-top: 30px;
+    letter-spacing: 1px;
 }
 
 .nav-logo {
     text-align: left;
-    font-size: 240%;
-    margin-right: 15%;
-    margin-bottom: 25px;
-    margin-top: 10px;
+    font-size: 200%;
+    margin-right: 5%;
+    padding-bottom: 5%;
+    margin-top: 5px;
     font-family: 'Nosifer', cursive;
     text-align: center;
     color: #fcedd8;
